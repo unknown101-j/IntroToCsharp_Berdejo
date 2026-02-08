@@ -193,6 +193,7 @@ class Prelim1
         Console.WriteLine($"{efficiencyRating}");
         Console.ResetColor();
 
+
         // Budget compliance indicator: Green for within budget, Red for overspent
         // Provides at-a-glance visual confirmation of financial compliance
         Console.Write("Stayed Within Budget: ");
